@@ -35,7 +35,7 @@ control works on the public URL.
 
 Keep GitHub Pages for the frontend, but run the repository's existing Node
 provider middleware on a persistent HTTPS host and route `/api/*` calls to it.
-Configure allowed CORS origin as `https://anilatli.github.io` and set the
+Configure allowed CORS origin as `https://anilseye.github.io` and set the
 required provider secrets on that host, never in the Pages build. The current
 repository has no backend hosting account or API secrets attached; therefore
 the public Pages URL cannot truthfully offer camera monitoring or all other

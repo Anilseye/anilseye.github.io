@@ -26,7 +26,7 @@ Anıl's Eye is an independent, branded build based on the MIT-licensed [God's Ey
 
 _“pretty cool”_ — [Brendan Eich](https://x.com/BrendanEich/status/2094592096401490266), creator of JavaScript and co-founder of Mozilla and Brave · Featured on **[Pinokio](https://pinokio.co/posts/01m1m4p9xxm3qw7dnnpj2wr93g)**
 
-🌍 **[Open Anıl's Eye on GitHub Pages](https://anilatli.github.io/anilseye/)**
+🌍 **[Open Anıl's Eye on GitHub Pages](https://anilseye.github.io/)**
 
 > GitHub Pages is a static edition, not the full live demo: public earthquakes,
 > satellites, launches, radio, and supported bike-share feeds can run in the
@@ -121,8 +121,8 @@ Use **Node.js 24.x (24.14.0 or later) or 26.x**. The setup doctor warns about
 Node 25, which is end-of-life.
 
 ```bash
-git clone https://github.com/AnilAtli/anilseye.git
-cd anilseye
+git clone https://github.com/Anilseye/anilseye.github.io.git
+cd anilseye.github.io
 npm ci
 npm run doctor
 npm run dev

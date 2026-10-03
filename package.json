@@ -6,13 +6,13 @@
   "type": "module",
   "license": "MIT",
   "author": "Bilawal Sidhu",
-  "homepage": "https://github.com/AnilAtli/anilseye#readme",
+  "homepage": "https://anilseye.github.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AnilAtli/anilseye.git"
+    "url": "https://github.com/Anilseye/anilseye.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/AnilAtli/anilseye/issues"
+    "url": "https://github.com/Anilseye/anilseye.github.io/issues"
   },
   "engines": {
     "node": ">=24.14.0 <25 || >=26 <27"
